@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactapp/static/css/main.d8f17546.css",
+    "main.js": "/reactapp/static/js/main.bde275ae.js",
+    "static/media/product_11_2.jpg": "/reactapp/static/media/product_11_2.20ccce41dbca4d8d91f4.jpg",
+    "static/media/product_19_1.jpg": "/reactapp/static/media/product_19_1.168e3e41c85a29c9ae53.jpg",
+    "static/media/product_12_1_1.jpg": "/reactapp/static/media/product_12_1_1.ab9274c820ff231352ee.jpg",
+    "static/media/product_1.jpg": "/reactapp/static/media/product_1.a4dc37ae5b2d41ce4df0.jpg",
+    "static/media/product_15_1.jpg": "/reactapp/static/media/product_15_1.ab0edeb1da67c9d11a1c.jpg",
+    "static/media/slick.svg": "/reactapp/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/reactapp/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/reactapp/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/reactapp/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/reactapp/index.html",
+    "main.d8f17546.css.map": "/reactapp/static/css/main.d8f17546.css.map",
+    "main.bde275ae.js.map": "/reactapp/static/js/main.bde275ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8f17546.css",
+    "static/js/main.bde275ae.js"
+  ]
+}
